@@ -1,8 +1,8 @@
 import {useState} from 'react'
 
 import picture from '../assets/hiro.png';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {faCircleArrowRight, } from "@fortawesome/free-solid-svg-icons";
+//import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+//import {faCircleArrowRight, } from "@fortawesome/free-solid-svg-icons";
 import hr from '../assets/curve-hr.svg'
 
 export default function Hiro () {
